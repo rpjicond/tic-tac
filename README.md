@@ -58,7 +58,7 @@ Ce projet a été réalisé à des fins d'apprentissage et d'expérimentation. M
 
 ## Contact
 
-- **Nom** : ronaldopaulino32@hotmail.com
+- **Email** : ronaldopaulino32@hotmail.com
 
 ---
 
