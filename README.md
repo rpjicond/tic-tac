@@ -1,4 +1,4 @@
-Claro! Aqui está a transformação do seu texto para um formato adequado de **README**:
+
 
 ```markdown
 # Jeu de Tic Tac Toe
