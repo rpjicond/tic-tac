@@ -1,4 +1,4 @@
-
+Aqui está o conteúdo transformado para um formato de **README.md**:
 
 ```markdown
 # Jeu de Tic Tac Toe
@@ -58,3 +58,7 @@ Ce projet a été réalisé à des fins d'apprentissage et d'expérimentation. M
 
 ---
 
+Amusez-vous bien et explorez le code !
+```
+
+Esse formato agora está completo e estruturado para ser um README adequado em um repositório GitHub!
