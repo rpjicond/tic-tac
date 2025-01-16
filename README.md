@@ -58,7 +58,3 @@ Ce projet a été réalisé à des fins d'apprentissage et d'expérimentation. M
 
 ---
 
-Amusez-vous bien et explorez le code !
-```
-
-Esse formato é adequado para um **README.md** em projetos no GitHub, explicando as funcionalidades, instruções de execução, e outros detalhes importantes.
