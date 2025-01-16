@@ -1,7 +1,13 @@
 
 # Jeu de Tic Tac Toe
 
-Ceci est un projet personnel pour un jeu classique de **Tic Tac Toe** (Jeu de Morpion) que j'ai créé pour tester mes compétences en Python et Pygame. Le jeu dispose d'une interface graphique interactive et inclut une Intelligence Artificielle (IA) simple.
+Ceci est un projet personnel pour un jeu classique de **Tic Tac Toe** (Jeu de Morpion) que j'ai créé pour tester mes compétences en Python et Pygame.
+Le jeu dispose d'une interface graphique interactive et inclut une Intelligence Artificielle (IA) simple.
+
+<img width="824" alt="Captura de ecrã 2024-08-16, às 2 40 28 AM" src="https://github.com/user-attachments/assets/7b5dce46-06aa-401f-a8b7-090b453b40ae" />
+<img width="824" alt="Captura de ecrã 2024-08-16, às 2 40 41 AM" src="https://github.com/user-attachments/assets/034f7d7f-e7c4-49df-8ea3-a8a5c251216f" />
+
+
 
 ## Fonctionnalités
 
