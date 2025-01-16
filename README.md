@@ -1,6 +1,4 @@
-Aqui está o conteúdo transformado para um formato de **README.md**:
 
-```markdown
 # Jeu de Tic Tac Toe
 
 Ceci est un projet personnel pour un jeu classique de **Tic Tac Toe** (Jeu de Morpion) que j'ai créé pour tester mes compétences en Python et Pygame. Le jeu dispose d'une interface graphique interactive et inclut une Intelligence Artificielle (IA) simple.
@@ -54,11 +52,9 @@ Ce projet a été réalisé à des fins d'apprentissage et d'expérimentation. M
 
 ## Contact
 
-- **Nom** : Ronaldo Paulino
+- **Nom** : ronaldopaulino32@hotmail.com
 
 ---
 
 Amusez-vous bien et explorez le code !
 ```
-
-Esse formato agora está completo e estruturado para ser um README adequado em um repositório GitHub!
